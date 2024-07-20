@@ -37,6 +37,9 @@ function App() {
 
   return (
     <>
+    <a className='linkEs6' href="https://drive.google.com/file/d/1IOVVssvrlZV349dXoPDFe27NngcH6ygi/view?usp=drive_link">Es6 features pdf</a>
+    <br />
+    <br />
     <h3>fetch 1 by fetch()</h3>
     <h3>fetch 2 by async/await</h3>
     <h3>fetch 3 by axios</h3>
